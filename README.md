@@ -15,4 +15,4 @@ We analyze the project based on two outcomes; Outcome based on Goals and Theater
 ![Outcomes Based on Goals](https://user-images.githubusercontent.com/58860105/129987225-4a9f348b-05fc-46fd-8d72-09b2835735e3.png)
 
 ## Difficulties encountered and challenges faced.
-** I only encounter few challenges when I was working on the 'Outcomes-based on goals sheet' which I spent several hours to figure out and also went to one of the group studies for an idea from other students on how to work on it. Apart from that, the module instruction was straightforward and easy to go through**.
+**I only encounter few challenges when I was working on the 'Outcomes-based on goals sheet' which I spent several hours to figure out and also went to one of the group studies for an idea from other students on how to work on it. Apart from that, the module instruction was straightforward and easy to go through**.
