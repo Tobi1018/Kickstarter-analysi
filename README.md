@@ -13,3 +13,5 @@ We analyze the project based on two outcomes; Outcome based on Goals and Theater
  
  ## Analysis of Outcomes Based on Goals 
 ![Outcomes Based on Goals](https://user-images.githubusercontent.com/58860105/129987225-4a9f348b-05fc-46fd-8d72-09b2835735e3.png)
+
+## Difficulties encountered and challenges faced.
