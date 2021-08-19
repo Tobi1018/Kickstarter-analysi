@@ -1,6 +1,6 @@
 # Kickstarter-Analysis
 ## Project Overview 
-**In this project,we make use of excel to visualize the campaign outcomes based on their launch dates and the funding goals of "Louise’s play Fever "fundraising goal. 
+**   In this project,we make use of excel to visualize the campaign outcomes based on their launch dates and the funding goals of "Louise’s play Fever "fundraising goal. 
 Analysis on Kickstarter to uncover trends**.
 
 ## Analysis and Challenges
