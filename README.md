@@ -20,5 +20,5 @@ We analyze the project based on two outcomes; Outcome based on Goals and Theater
 ## Results
 **To conclude the " Theater Outcomes based on launch Date" We could see that the best period to launch the campaign would be the month of May and June due to the high success rate both months have lower failed and canceled campaigns. Also, the worst month to launch a campaign would be the month of December.**
 
-**In the Outcomes Based on Goals we see that the dollar ranges from $1000 through $4999 the number success rate is high compare to the failed.**
+**In the Outcomes Based on Goals we see that the dollar ranges from $1000 through $4999 the number success rate is high compare to the failed.** 
 
