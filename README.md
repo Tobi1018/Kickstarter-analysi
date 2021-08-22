@@ -18,4 +18,6 @@ We analyze the project based on two outcomes; Outcome based on Goals and Theater
 **I only encounter few challenges when I was working on the 'Outcomes-based on goals sheet' which I spent several hours to figure out and also went to one of the group studies for an idea from other students on how to work on it. Apart from that, the module instruction was straightforward and easy to go through**.
 
 ## Results
-**To conclude the " Theater Outcomes based on launch Date" We could see that the best period to launch the campaign would be the month of May and June due to the high success rate both months have lower failed and canceled campaigns**
+**To conclude the " Theater Outcomes based on launch Date" We could see that the best period to launch the campaign would be the month of May and June due to the high success rate both months have lower failed and canceled campaigns.**
+
+**In the Outcomes Based on Goals we see that the dollar ranges from $1000 through $4999 the number success rate is high compare to the failed.**
